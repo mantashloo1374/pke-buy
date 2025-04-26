@@ -1,4 +1,4 @@
-app = "pke-buy-bot"
+app = "pke-buy"
 
 [build]
   image = "python:3.11"
