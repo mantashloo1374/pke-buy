@@ -1,2 +1,2 @@
-TELEGRAM_TOKEN = "توکن_تست_یا_واقعی_اینجا"
+TELEGRAM_TOKEN = "6498507621:AAFvBqD70vPr9mm1K7FQJN-3Yb4Clr4bK3o"
 ZARINPAL_MERCHANT_ID = "مرچنت_کد_زرین_پال_اینجا"
